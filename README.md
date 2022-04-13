@@ -8,7 +8,7 @@ Seguramente andas pensando que terminando de leer todo el proyecto lograrás ser
 
 Esa es una gran duda, mientras escribo esto pienso en tantas cosas como por ejemplo *¿la persona que me está leyendo tiene sentido del humor?*, *¿debería ser serio e ir directo a los temas?*. Seguramente hay muchos cursos y recomendaciones para empezar.
 
-A mi parecer, recomiendo dos temas muy importantes que podrían ser muy complicados, por lo que trataré de ir muy muy lento para que el alcance de estos temas parezca muy sencillo para todos.
+A mi parecer, recomiendo tres temas muy importantes que podrían ser muy complicados, por lo que trataré de ir muy muy lento para que el alcance de estos temas parezca muy sencillo para todos.
 
 - [Markdown](https://github.com/ruckysolis/derechoydesarrollo/tree/main/markdown)
 - Google

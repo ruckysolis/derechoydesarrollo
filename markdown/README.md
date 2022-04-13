@@ -15,3 +15,15 @@ Markdown para no complicar tanto, piensa que es una ténica rápida para escribi
 Existen diferentes herramientas en las que puedes probar esto. Si no quieres instalar nada, puedes probar directamente en https://dillinger.io/. Ahí también cuando entras la primera vez da un ejemplo rápido de lo que se puede hacer.
 
 La importancia de esto es que haces una escritura con un formato rápido.
+
+Por ejemplo, lo básico que normalmente ocupo es
+
+`# titulo nivel 1`
+`## titulo nivel 2`
+`*cursiva*`
+`**negrita**`
+`- lista`
+``código``
+
+El siguiente enlace es una guía de Markdown - https://www.markdownguide.org/basic-syntax/
+

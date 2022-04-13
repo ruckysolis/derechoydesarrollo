@@ -16,7 +16,7 @@ A mi parecer, recomiendo dos temas muy importantes que podrían ser muy complica
 
 ## Markdown 
 
-¿Ya viste que parece que empezamos fuertes? Te habrás dado cuenta que *Markdown* parece una palabra en inglés y es correcto, mucho de lo que se va a ver tiene que ver con palabras en inglés, si no sabes inglés pues nunca es tarde para empezar, no es necesario saber inglés pero vaya que ayudará muchísimo. Markdown es un lenguaje de marcado ligero (sí sí ya sé que otra vez parece algo raro), esto que estás leyendo está siendo escrito en Markdown, se puede explicar super rápido pero como dije que iría lento. Dale click a **Markdown** en la lista de arriba.
+¿Ya viste que parece que empezamos fuertes? Te habrás dado cuenta que **Markdown** parece una palabra en inglés y es correcto, mucho de lo que se va a ver tiene que ver con palabras en inglés, si no sabes inglés pues nunca es tarde para empezar, no es necesario saber inglés pero vaya que ayudará muchísimo. Markdown es un lenguaje de marcado ligero (sí sí ya sé que otra vez parece algo raro), esto que estás leyendo está siendo escrito en Markdown, se puede explicar super rápido pero como dije que iría lento. Dale click a **Markdown** en la lista de arriba.
 
 Cabe recordar que si piensas que algo no se entiende, pues la recomendación es que uses google. 
 

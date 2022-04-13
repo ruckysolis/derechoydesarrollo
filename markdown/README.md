@@ -23,7 +23,6 @@ Por ejemplo, lo básico que normalmente ocupo es
 `*cursiva*`
 `**negrita**`
 `- lista`
-``código``
 
 El siguiente enlace es una guía de Markdown - https://www.markdownguide.org/basic-syntax/
 

@@ -27,6 +27,17 @@ Por ejemplo, lo básico que normalmente ocupo es
 - `[palabras para enlace](enlace)`
 - `[titulo de imagen](imagen)`
 
+```
+# titulo nivel 1
+## titulo nivel 2
+*cursiva*
+**negrita**
+- lista
+1. lista enumerada
+[palabras para enlace](enlace)
+[titulo de imagen](imagen)
+```
+
 Si estás usando [Dillinger](https://dillinger.io/) puedes ver que a la izquierda ves tu formato como lo escribes y a la derecha como se verá.
 
 ### Imagen de ejemplo

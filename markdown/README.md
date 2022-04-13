@@ -33,5 +33,10 @@ Si estás usando [Dillinger](https://dillinger.io/) puedes ver que a la izquierd
 
 ![Ejemplo de texto en Dillinger](https://i.imgur.com/ZERrEY3.png)
 
+Y si le das click en Export As y después en PDF, te creará el archivo en PDF ya con el formato que creaste.
+
+![exportar](https://i.imgur.com/6mv1i96.png)
+
+
 El siguiente enlace es una guía de Markdown - https://www.markdownguide.org/basic-syntax/
 

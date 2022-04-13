@@ -25,13 +25,14 @@ Por ejemplo, lo básico que normalmente ocupo es
 `- lista`
 `1. lista enumerada`
 `[palabras para enlace](enlace)`
+`[titulo de imagen](imagen)`
 
 El siguiente enlace es una guía de Markdown - https://www.markdownguide.org/basic-syntax/
 
 Si estás usando [Dillinger](https://dillinger.io/) puedes ver que a la izquierda ves tu formato como lo escribes y a la derecha como se verá.
 
+### Imagen de ejemplo
 
-
-![Ejemplo de texto en Dillinger](https://i.imgur.com/ZERrEY3.png "San Juan Mountains")
+![Ejemplo de texto en Dillinger](https://i.imgur.com/ZERrEY3.png)
 
 

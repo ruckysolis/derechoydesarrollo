@@ -31,3 +31,4 @@ Esto que estás leyendo se está versionando **Git**
 Super importante aprender, todo esto se está escribiendo por la idea que he tenido durante varios años. **Todos debemos aprender a usar git.** Conforme lo aprendas, quizá me des la razón.
 
 - Y hay muchos otros temas, empecemos con esos 3.
+- Si tienes alguna duda, comentario, sugerencia, puedes buscarme en https://linktr.ee/ruckysolis

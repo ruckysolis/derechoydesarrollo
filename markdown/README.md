@@ -9,7 +9,7 @@ Actualmente gracias a muchos ingenieros y diseñadores ese concepto de alfabetis
 
 También para redactar textos pasaste por *Microsoft Word* y ahí aprendiste algúnas técnicas nuevas para escribir. ¿Ahora sí se entiende mi punto sobre el alfabetismo? Por ejemplo, ya sabes lo que son las **negritas** y las *cursivas*.
 
-Markdown para no complicar tanto, piensa que es una ténica rápida para escribir. En vez de buscar el botón para la *cursiva*, puedes escribir: 
+Markdown para no complicar tanto, piensa que es una técnica rápida para escribir. En vez de buscar el botón para la *cursiva*, puedes escribir: 
 `*palabra*` y listo, saldrá en cursiva.
 
 Existen diferentes herramientas en las que puedes probar esto. Si no quieres instalar nada, puedes probar directamente en https://dillinger.io/. Ahí también cuando entras la primera vez da un ejemplo rápido de lo que se puede hacer.
@@ -39,6 +39,6 @@ Y si le das click en Export As y después en PDF, te creará el archivo en PDF y
 
 ![exportar](https://i.imgur.com/6mv1i96.png)
 
-
 El siguiente enlace es una guía de Markdown - https://www.markdownguide.org/basic-syntax/
 
+En Windows para la realización de este proyecto se está usando [Typora](https://typora.io)

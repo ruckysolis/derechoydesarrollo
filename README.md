@@ -61,4 +61,6 @@ La siguiente imagen se creó en 2009 como una broma en la que trata de explicar 
 
 ![Abogados y Github](http://philarcher.org/diary/2012/policygit/venn1.png)
 
+Han pasado ya más de 10 años y esa broma aún la verdad asoma.
+
 Yo estudié Ciencias de la Comunicación y actualmente estudio derecho, estoy seguro que esa imagen se puede reducir.

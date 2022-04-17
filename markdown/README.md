@@ -39,6 +39,10 @@ Y si le das click en Export As y después en PDF, te creará el archivo en PDF y
 
 ![exportar](https://i.imgur.com/6mv1i96.png)
 
+
+
+## Algo más 
+
 El siguiente enlace es una guía de Markdown - https://www.markdownguide.org/basic-syntax/
 
 En Windows para la realización de este proyecto se está usando [Typora](https://typora.io)

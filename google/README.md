@@ -40,7 +40,7 @@ Podemos encontrar un dato que se encuentre en un tipo de archivo, por ejemplo  `
 
 En el apartado de [noticias de Google](https://news.google.com/) podemos usar el comando `before` para antes o `después` de una fecha, por ejemplo `"Ricardo Solís" before:2021` para ver lo que se dijo de Ricardo Solís antes del 2021. Si se quiere incluir mes y día, el formato es AAAA/MM/DD
 
+## Algo más
 
-
-- Si todo esto te parece muy avanzados, también puedes ir a https://www.google.com.mx/advanced_search
+Si todo esto te parece muy avanzado, también puedes ir a https://www.google.com.mx/advanced_search
 

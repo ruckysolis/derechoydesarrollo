@@ -51,7 +51,7 @@ Por ejemplo, los estudiantes saben usar el Sistema Operativo Windows y la paquet
 
 Por eso este proyecto inicialmente tratará de enseñar habilidades y no de descargar aplicaciones. Dependerá de la demanda de los interesados.
 
-Para mi legaltech es entender conceptos para saber como se le está pagando al ingeniero. Una frase común que existe para los diseñadores y se toma a broma es "metele más diseño" por no saber de ciertos conceptos. Entonces legal tech debe ser contar con conocimientos y habilidades para saber que está haciendo nuestro ingeniero o poderlo defender.
+Para mi legaltech es entender conceptos para saber como se le está pagando al ingeniero. Una frase común que existe para los diseñadores y se toma a broma es "metele más diseño" por no saber de ciertos conceptos. Entonces legal tech debe contar con conocimientos y habilidades para saber que está haciendo nuestro ingeniero o poderlo apoyar.
 
 El desarrollo y la tecnología son temas que debemos aprender y documentarnos por que es hacía donde va el mundo. Los abogados son quienes deben mediarlo y se están viendo atrasados por que parecían ser temas distantes. Ahora estos temas son la conversación diaria de muchos de nosotros y  lo que parecía que alguien hacía en otro país ahora resulta que es algún conocido nuestro. Si ese conocido presenta algún problema con esos temas debería ser el papel de un abogado poderlo apoyar.
 

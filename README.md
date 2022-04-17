@@ -11,7 +11,7 @@ Esa es una gran duda, mientras escribo esto pienso en tantas cosas como por ejem
 A mi parecer, recomiendo tres temas muy importantes que podrían ser muy complicados, por lo que trataré de ir muy muy lento para que el alcance de estos temas parezca muy sencillo para todos.
 
 - [Markdown](https://github.com/ruckysolis/derechoydesarrollo/tree/main/markdown)
-- Google
+- [Google](https://github.com/ruckysolis/derechoydesarrollo/tree/main/google)
 - Git
 
 ## Markdown 
@@ -64,3 +64,4 @@ La siguiente imagen se creó en 2009 como una broma en la que trata de explicar 
 Han pasado ya más de 10 años y esa broma aún la verdad asoma.
 
 Yo estudié Ciencias de la Comunicación y actualmente estudio derecho, estoy seguro que esa imagen se puede reducir.
+

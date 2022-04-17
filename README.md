@@ -21,7 +21,7 @@ A mi parecer, recomiendo tres temas muy importantes que podrían ser muy complic
 Cabe recordar que si piensas que algo no se entiende, pues la recomendación es que uses google. 
 
  ## Google
- 
+
 *¿En serio, Google?* Si, yo sé que tu sobrino pequeño lo sabe usar. ¿Pero sabes que puedes incluir comandos de búsqueda? No es novedad que cuando desconocemos algo lo buscamos en **google**, por lo que se recomienda aprender estos comandos para mejorar tus búsquedas.
 
 Esto que estás leyendo se está versionando **Git**
@@ -32,3 +32,33 @@ Super importante aprender, todo esto se está escribiendo por la idea que he ten
 
 - Y hay muchos otros temas, empecemos con esos 3.
 - Si tienes alguna duda, comentario, sugerencia, puedes buscarme en https://linktr.ee/ruckysolis
+
+## Aclaraciones
+
+*Yo entendía que **legaltech** era saber de sitios de internet, programas y aplicaciones, no estas cosas de comandos y códigos. Para eso mejor contrato a un ingeniero*
+
+Pues que bueno que tu despacho lo pueda pagar. Y sí, legaltech también es eso. Es una palabra nueva y apenas se está definiendo por donde va.
+
+Hace unos años se pensaba que un ingeniero en sistemas promedio a lo que podía aspirar era a tener un ciber. Con el tiempo se entendió que si querías tener un ciber no era necesario ser ingeniero en sistemas.
+
+Lo mismo ocurre con esto del legaltech, se está desarrollando la definición. Será la demanda de las personas que digan hacía donde va esto. 
+
+Considero algo parecido a lo del ejemplo del ciber. Ser abogado no es saber abrir el documento en Microsoft Word y editarlo. Si has logrado vivir así que gusto, pero este proyecto que estás leyendo no es para ti.
+
+Uno de mis grandes problemas a los que se ven enfrentados los estudiantes es que les enseñan a manejar ciertos sistemas y no a desarrollar habilidades para saber usar alternativas.
+
+Por ejemplo, los estudiantes saben usar el Sistema Operativo Windows y la paquetería de Microsoft Office. Pero existen otras alternativas muy buenas como sistemas operativos con base Linux y la paquetería LibreOffice. Funcionan de formas muy parecidas pero el conocimiento que tienen no les da las habilidades para usarlo.
+
+Por eso este proyecto inicialmente tratará de enseñar habilidades y no de descargar aplicaciones. Dependerá de la demanda de los interesados.
+
+Para mi legaltech es entender conceptos para saber como se le está pagando al ingeniero. Una frase común que existe para los diseñadores y se toma a broma es "metele más diseño" por no saber de ciertos conceptos. Entonces legal tech debe ser contar con conocimientos y habilidades para saber que está haciendo nuestro ingeniero o poderlo defender.
+
+El desarrollo y la tecnología son temas que debemos aprender y documentarnos por que es hacía donde va el mundo. Los abogados son quienes deben mediarlo y se están viendo atrasados por que parecían ser temas distantes. Ahora estos temas son la conversación diaria de muchos de nosotros y  lo que parecía que alguien hacía en otro país ahora resulta que es algún conocido nuestro. Si ese conocido presenta algún problema con esos temas debería ser el papel de un abogado poderlo apoyar.
+
+También por la cantidad de información con la que contamos ahora, así como sabemos encontrar por internet donde queda ese restaurante que nos recomendaron, también deberíamos saber como ubicar cierta información que esté alojada digitalmente entre cientos o millones de otros datos.
+
+La siguiente imagen se creó en 2009 como una broma en la que trata de explicar la relación entre los abogados y personas que tienen una cuenta en esta plataforma.
+
+![Abogados y Github](http://philarcher.org/diary/2012/policygit/venn1.png)
+
+Yo estudié Ciencias de la Comunicación y actualmente estudio derecho, estoy seguro que esa imagen se puede reducir.

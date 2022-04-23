@@ -44,3 +44,4 @@ En el apartado de [noticias de Google](https://news.google.com/) podemos usar el
 
 Si todo esto te parece muy avanzado, también puedes ir a https://www.google.com.mx/advanced_search
 
+Hay otras plataformas que en sus búsquedas también permiten búsquedas avanzadas, para twitter recomiendo leer https://twitter.com/Sdesalvaje/status/1515849376475893771

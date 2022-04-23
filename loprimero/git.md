@@ -12,7 +12,7 @@ Git es un software de control de versiones que puede ayudar a mantener un orden 
 
 Por ejemplo, este proyecto que se encuentra alojado en Github, podemos ver en **commits** cada modificación que se ha hecho.
 
-Si entras a un commit puedes ver en verde lo que se agregado y en rojo lo que se eliminó.
+Si entras a un commit puedes ver en verde lo que se agregó y en rojo lo que se eliminó. [Ejemplo](https://github.com/ruckysolis/derechoydesarrollo/commit/83a141506b0cb9ccfdd1c4389f3699346b1593eb)
 
 Cada modificación alojada es una versión diferente.
 

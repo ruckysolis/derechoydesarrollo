@@ -106,4 +106,3 @@ Yo estudié Ciencias de la Comunicación y actualmente estudio derecho, estoy se
 
 - Si tienes alguna duda, comentario, sugerencia, puedes encontrarme en mis [redes sociales](https://linktr.ee/ruckysolis)
 - Si te interesa saber más sobre la actualidad de estos temas, recomiendo que te des una vuelta por mi [blog](http://www.ruckysolis.com)
-- También puedes ir a discussions de este proyecto.

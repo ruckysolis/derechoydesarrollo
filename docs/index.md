@@ -93,11 +93,11 @@ La siguiente imagen se creó en 2009 como una broma en la que trata de explicar 
 
 ![Abogados y Github](http://philarcher.org/diary/2012/policygit/venn1.png)
 
-Esta imagen la vi en un video de Ted llamado "Cómo el Internet transformará al gobierno" - https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government
+Esta imagen la vi en un [video de Ted llamado "Cómo el Internet transformará al gobierno"](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government)
 
 Han pasado ya más de 10 años y esa broma aún la verdad asoma.
 
 Yo estudié Ciencias de la Comunicación y actualmente estudio derecho, estoy seguro que esa imagen se puede reducir.
 
-- Si tienes alguna duda, comentario, sugerencia, puedes buscarme en https://linktr.ee/ruckysolis
+- Si tienes alguna duda, comentario, sugerencia, puedes encontrarme en mis [redes sociales](https://linktr.ee/ruckysolis)
 - También puedes ir a discussions de este proyecto.

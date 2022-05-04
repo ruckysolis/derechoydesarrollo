@@ -1,3 +1,9 @@
+---
+title: Git
+parent: ¿Y qué es lo primero?
+nav_order: 3
+---
+
 # Git
 
 De estudiantes aprendimos a nombrar documentos como "trabajo final", "trabajo final 2", "trabajo final 2 con Anita" "trabajo con correcciones por hacer", "trabajo final final", "trabajo final final con Anitta", pero luego resultaba que se incluía un nuevo tema, este tema modifica el contenido y se van encontrando nuevos subtemas que hacen mucho más interesante el documento. Pero nos damos cuenta que ese nuevo tema puede ir entrando los contenidos que ya estaban antes.

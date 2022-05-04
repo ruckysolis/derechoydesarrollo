@@ -1,3 +1,9 @@
+---
+layout: default
+title: 404
+nav_exclude: true
+---
+
 # Google
 
 Para mejorar tus búsquedas en google es necesario que te sepas o tengas a la mano algunos comandos.

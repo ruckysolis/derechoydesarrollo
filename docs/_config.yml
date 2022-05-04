@@ -1,17 +1,2 @@
 title: "Derecho y Desarrollo"
 remote_theme: just-the-docs/just-the-docs
-
-+-- ..
-|-- (Jekyll files)
-|
-|-- loprimero
-|   |-- index.md  (parent page)
-|   |-- git.md
-|   |-- google.md
-|   +-- markdown.md
-|   |
-
-|   +-- ..
-|
-|-- (Jekyll files)
-+-- ..

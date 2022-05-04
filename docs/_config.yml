@@ -8,7 +8,7 @@ remote_theme: just-the-docs/just-the-docs
 |   |-- index.md  (parent page)
 |   |-- git.md
 |   |-- google.md
-|   +-- typography.md
+|   +-- markdown.md
 |   |
 
 |   +-- ..

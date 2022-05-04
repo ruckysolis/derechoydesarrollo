@@ -1,4 +1,10 @@
-## ¿Y que es lo primero?
+---
+title: ¿Y qué es lo primero?
+nav_order: 2
+has_children: true
+---
+
+## ¿Y qué es lo primero?
 
 Esa es una gran duda, mientras escribo esto pienso en tantas cosas como por ejemplo *¿la persona que me está leyendo tiene sentido del humor?*, *¿debería ser serio e ir directo a los temas?*. Seguramente hay muchos cursos y recomendaciones para empezar.
 

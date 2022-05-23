@@ -181,9 +181,11 @@ Si tu solicitud es aprobada, recibirás un correo electrónico de confirmación.
 ![image](https://user-images.githubusercontent.com/2883426/169738811-05652df0-38ea-48c7-a877-908d66b1db9e.png)
     
 * Tendremos algo así
+* 
 ![image](https://user-images.githubusercontent.com/2883426/169738824-fae0e0c7-a0f9-47f0-b6f4-e6889c0cac8d.png)
 
 * Abrimos el correo y con esto, hemos activado exitosamente nuestro GitHub Student Developer Pack
+* 
 ![image](https://user-images.githubusercontent.com/2883426/169738831-2ebf0af0-78ad-45e7-93d2-e628582c9bf7.png)
 
 

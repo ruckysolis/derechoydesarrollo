@@ -6,15 +6,14 @@ No hay sustituto para la experiencia práctica. Pero para la mayoría de los est
 
 El student developer pack es un conjunto de herramientas, cursos y programas de comunidad con un valor aproximado de 200 mil dólares, que te ayudarán a fortalecer los conocimientos.
 
-Como tus Sherpas Digitales, tenemos para ti una mochila virtual con todos los elementos necesarios para que puedas afrontar tus retos, terminar el programa y seguir en constante desarrollo. Incluso, cuando el ciclo haya finalizado.
+Esto es una mochila virtual con todos los elementos necesarios para que puedas afrontar tus retos, terminar el programa y seguir en constante desarrollo. Incluso, cuando el ciclo haya finalizado.
 
 ### ¿Cómo Funciona?
 
 Para poder acceder a los beneficios del GitHub Student Developer Pack, es necesario contar con una cuenta de correo institucional de tu universidad, así cómo un documento que acredite tu status de estudiante. 
 
-Sin embargo al ingresar al programa de Innovacción Virtual se te proporciona un correo institucional que podrás utilizar para acceder a los beneficios que te ofrece el GitHub Student Developer Pack.
 
-En este repositorio encontrarás las instrucciones para poder activar tu GitHub Student Developer Pack, haciendo uso de tu cuenta de Innovacción Virtual.
+En este repositorio encontrarás las instrucciones para poder activar tu GitHub Student Developer Pack.
 
 ### ¿Qué necesito?
 
@@ -43,6 +42,7 @@ Ingresa a la página de [GitHub](https://github.com/) y rellena los campos que a
 Ejemplo: 
 * ```OscarRodiles``` 
 * ```FernandaOchoa```
+* * ```RicardoSolis```
 
 **Correo:** **Tu correo de Institucional, termina con @tuUniversidad**  
 **Contraseña:** Asegúrate de guardar en un lugar seguro tu contraseña, ya que la necesitarás en varias ocasiones al usar GitHub.

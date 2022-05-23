@@ -1,10 +1,10 @@
 ---
-title: Canva
+title: Canva para estudiantes
 parent: GitHub Student Developer Pack
 nav_order: 1
 ---
 
-# Canva
+# Canva para estudiantes
 
 ## Guía para utilizar los beneficios del GitHub Student Developer Pack
 

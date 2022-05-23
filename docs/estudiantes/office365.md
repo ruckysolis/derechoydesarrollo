@@ -40,7 +40,7 @@ Administre todos los archivos, acceda a recursos interactivos y páginas web, ma
 
 Esta información fue encontrada en [Tutoriales para una Eduación a distancia](https://www.uv.mx/plandecontingencia/files/2021/01/5-tutoriales-para-una-educacion-a-distancia.pdf)
 
-Este tutorial fue hecho para Facilitadores (docentes), pero la mayoría de esta información puede ser aplicada para estudiantes.
+Estos tutoriales fueron hechos para Facilitadores (docentes), pero la mayoría de esta información puede ser aplicada para estudiantes.
 
 Recuerda que para tener acceso a estos servicios, debes tener iniciada tu sesión de estudiante. 
 

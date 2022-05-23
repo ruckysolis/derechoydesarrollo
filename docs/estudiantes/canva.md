@@ -41,13 +41,13 @@ Lo primero es tener una cuenta en CANVA, si ya la tienes puedes saltarte estos p
     * Clic en **Incia sesión** señalado en color **ROJO**
 ![image](https://user-images.githubusercontent.com/2883426/169739733-553c4f33-4536-4f72-8785-b3ab6b564264.png)
     * Ahora nos pedirá iniciar sesión con nuestra cuenta en GitHub, la que tiene el GitHub Student Developer Pack. Seleccionamos **Sign up with GitHub** señalado en color **ROJO**
-![image](https://user-images.githubusercontent.com/2883426/169739830-9ed9d6ea-878d-4157-ac7e-c30cf89149d0.png)
+![image](https://user-images.githubusercontent.com/2883426/169740102-40a6d1ff-71d5-4012-b5b4-7908e7698bdf.png)
     * Abrirá una ventana emergente para solicitar una confirmación de acceso, damos clic en **Authoriza Canva** señalado en color **ROJO**
-        * ![](../img/dp9.PNG) 
+![image](https://user-images.githubusercontent.com/2883426/169740133-088ae583-124e-4507-9049-9ba0a3828589.png)
     * Enseguida nos confirmará que ha sido activada nuestra versión PRO de Canva, como se muestra a continuación:
-        * ![](../img/dp10.PNG)
+![image](https://user-images.githubusercontent.com/2883426/169740148-656c2f29-7741-4afe-a7b9-6e0845750f61.png)
     * Ingresamos a [Canva](https://canva.com) y podremos darnos cuenta que las funciones PRO ya han sido habilitadas.
-        * ![](../img/dp11.PNG)
+![image](https://user-images.githubusercontent.com/2883426/169740161-c19f6299-caac-49db-9a73-86c281113398.png)
         
 Hemos creado una cuenta en canva y activado uno de los beneficios de nuestro GitHub Student Developer Pack.
 Este tutorial fue modificado, originalmente se encuentra en la [Inducción a Innovaccion Virtual](https://github.com/innovaccion-virtual/onboarding-github-innovaccion/blob/master/Tutoriales/articles/Canva.md)

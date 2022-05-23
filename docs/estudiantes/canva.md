@@ -1,6 +1,7 @@
 ---
 title: Canva para estudiantes
 parent: GitHub Student Developer Pack
+grand_parent: Estudiantes
 nav_order: 1
 ---
 

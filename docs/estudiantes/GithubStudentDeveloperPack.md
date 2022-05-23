@@ -47,7 +47,7 @@ Ingresa a la página de [GitHub](https://github.com/) y rellena los campos que a
 Ejemplo: 
 * ```OscarRodiles``` 
 * ```FernandaOchoa```
-* * ```RicardoSolis```
+* ```RicardoSolis```
 
 **Correo:** **Tu correo de Institucional, termina con @tuUniversidad**  
 **Contraseña:** Asegúrate de guardar en un lugar seguro tu contraseña, ya que la necesitarás en varias ocasiones al usar GitHub.

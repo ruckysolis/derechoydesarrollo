@@ -32,8 +32,6 @@ Para poder acceder a los beneficios que otorga el GitHub Student Developer Pack 
 
 ## Instrucciones
 
-*Si ya tienes activado tu GitHub Student Developer Pack, salta al paso #4.*
-
 * [ ] [1.- Crear una cuenta de GitHub](#creando-una-cuenta-de-github)
 * [ ] [2.- Verificar la cuenta de GitHub](#verificar-la-cuenta-de-correo-en-github)
 * [ ] [3.- Activar el GitHub Student Developer Pack](#activando-el-student-developer-pack)

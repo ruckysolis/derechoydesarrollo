@@ -3,6 +3,7 @@
 A continuación encontraremos los pasos a seguir para poder aprovechar los beneficios que otorga el GitHub Student Developer Pack.
 
 * [Iniciamos sesión en GitHub](https://github.com/login) con nuestra cuenta que registramos para el GitHub Student Developer Pack. 
+
 ![image](https://user-images.githubusercontent.com/2883426/169739541-44b75496-b894-4d7d-91d6-e3b7253ae42a.png)
 
 * Después ingresamos a la siguiente [liga](https://education.github.com/pack/offers) que nos llevará aquí.

@@ -39,6 +39,8 @@ Administre todos los archivos, acceda a recursos interactivos y páginas web, ma
 [Videotutorial de Teams](https://https://m365edu455575-my.sharepoint.com/personal/ediel_changemakernow_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fediel%5Fchangemakernow%5Fcom%2FDocuments%2FVideos%2FMicrosoft%20Teams%2FMicrosoft%20Teams%20Caracter%C3%ADsticas%20y%20funcionalidades%2Emp4&parent=%2Fpersonal%2Fediel%5Fchangemakernow%5Fcom%2FDocuments%2FVideos%2FMicrosoft%20Teams&ga=1)
 
 Esta información fue encontrada en [Tutoriales para una Eduación a distancia](https://www.uv.mx/plandecontingencia/files/2021/01/5-tutoriales-para-una-educacion-a-distancia.pdf)
+Este tutorial fue hecho para Facilitadores (docentes), pero la mayoría de esta información puede ser aplicada para estudiantes.
+Recuerda que para tener acceso a estos servicios, debes tener iniciada tu sesión de estudiante. 
 
 
 

@@ -1,4 +1,6 @@
-# Guía para utilizar los beneficios del GitHub Student Developer Pack
+# Canva
+
+## Guía para utilizar los beneficios del GitHub Student Developer Pack
 
 A continuación encontraremos los pasos a seguir para poder aprovechar los beneficios que otorga el GitHub Student Developer Pack.
 * [Iniciamos sesión en GitHub](https://github.com/login) con nuestra cuenta que registramos para el GitHub Student Developer Pack. 

@@ -19,7 +19,9 @@ Lo primero es tener una cuenta en CANVA, si ya la tienes puedes saltarte estos p
     * Clic en **Sign up with email** señalado en color **ROJO**
    
 ![image](https://user-images.githubusercontent.com/2883426/169739592-bd8240fa-8bbd-46dd-8c98-5c8a5c0d12ae.png)
+
     * Ingresamos nuestra información y clic en **Get Started, it's free!** señalado en color **ROJO**
+    
 ![image](https://user-images.githubusercontent.com/2883426/169739606-d3be6c23-eb7b-4395-9082-afb1b75fffeb.png)
     * Seleccionamos la opción **Estudiante/Student** señalada en color **ROJO**
 ![image](https://user-images.githubusercontent.com/2883426/169739618-19b62adc-4ceb-45b0-9277-322a818fc441.png)

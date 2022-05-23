@@ -1,4 +1,10 @@
-# Estudiantes
+---
+title: Estudiantes
+nav_order: 3
+has_children: true
+---
+
+# Para estudiantes
 
 Muchas universidades brindan diferentes servicios, la Universidad Veracruzana tiene un convenio con **Microsoft**. Esto significa que como estudiantes puedes disfrutar de diferentes servicios que normalmente tienen costo.
 

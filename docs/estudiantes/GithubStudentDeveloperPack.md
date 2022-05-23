@@ -1,3 +1,10 @@
+---
+title: GitHub Student Developer Pack
+parent: Estudiantes
+nav_order: 1
+has_children: true
+---
+
 ## GitHub Student Developer Pack
 
 ![image](https://user-images.githubusercontent.com/2883426/169738480-5efac09d-142e-4c6d-9177-69730ca07102.png)  

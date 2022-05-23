@@ -44,5 +44,8 @@ Estos tutoriales fueron hechos para Facilitadores (docentes), pero la mayoría d
 
 Recuerda que para tener acceso a estos servicios, debes tener iniciada tu sesión de estudiante. 
 
+## Paquetería de Microsoft Office
 
+Las herramientas Word, PowerPoint y Excel permiten crear, editar, compartir y trabajar de manera colaborativa documentos, presentaciones y hojas de cálculo en la nube. Es importante resaltar que al trabajar tus documentos en la nube, estos se guardarán de manera automática en la herramienta OneDrive.
+Tutoriales de [Microsoft Office](https://www.uv.mx/colabora365/word-excel-powerpoint/)
 

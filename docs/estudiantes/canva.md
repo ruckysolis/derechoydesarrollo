@@ -23,14 +23,23 @@ Lo primero es tener una cuenta en CANVA, si ya la tienes puedes saltarte estos p
     * Ingresamos nuestra información y clic en **Get Started, it's free!** señalado en color **ROJO**
     
 ![image](https://user-images.githubusercontent.com/2883426/169739606-d3be6c23-eb7b-4395-9082-afb1b75fffeb.png)
+
     * Seleccionamos la opción **Estudiante/Student** señalada en color **ROJO**
+    
 ![image](https://user-images.githubusercontent.com/2883426/169739618-19b62adc-4ceb-45b0-9277-322a818fc441.png)
+
     * Damos clic en **Skip** señalado en color **ROJO**
+    
 ![image](https://user-images.githubusercontent.com/2883426/169739635-14888132-939a-4184-9070-842f5df3cd2c.png)
+
     * Ahora seleccionamos el diseño con el que queremos iniciar, la verdad no importa, para este ejemplo seleccionaré **Infografía** 
+    
 ![image](https://user-images.githubusercontent.com/2883426/169739650-abd78ed7-f801-47d2-bf01-8382af95c63e.png)
+
     * Listo tenemos creada y configurada nuestra cuenta de CANVA Gratuita
+    
 ![image](https://user-images.githubusercontent.com/2883426/169739661-961b2eb6-96e1-48e3-8bd4-b656c6a58ac1.png)
+
     * Para activar la versión PRO coninúa el tutorial.  
     
 ## Activando la versión PRO de CANVA

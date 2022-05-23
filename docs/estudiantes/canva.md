@@ -1,3 +1,9 @@
+
+---
+title: Canva
+parent: GitHub Student Developer Pack
+nav_order: 1
+---
 # Canva
 
 ## Guía para utilizar los beneficios del GitHub Student Developer Pack
